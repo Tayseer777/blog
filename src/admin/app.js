@@ -20,6 +20,7 @@ export default {
     "Auth.form.welcome.subtitle": "Log in to your account",
         },
     ar: {
+      "Auth.form.welcome.subtitle": "سجل دخولك الآن",
       "Password": "كلمة السر",
       "global.password": "كلمة السر",
       "Auth.form.welcome.title": "WELCOME!",
