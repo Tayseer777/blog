@@ -16,8 +16,13 @@ export default {
       },
     },
   translations: {
+    en:{"Auth.form.welcome.title": "WELCOME!",
+    "Auth.form.welcome.subtitle": "Log in to your account",
+        },
     ar: {
-      "Auth.form.welcome.title": "أهلا بك!",
+      "Password": "كلمة السر",
+      "global.password": "كلمة السر",
+      "Auth.form.welcome.title": "WELCOME!",
       "app.components.LeftMenu.logout": "تسجيل خروج",
       "app.components.LeftMenu.plugins": "اضافات",
       "app.components.LeftMenu.navbrand.title": "الصفحة الرئيسية",
