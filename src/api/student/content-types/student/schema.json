@@ -11,11 +11,11 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "الإسم": {
+    "name": {
       "type": "string",
       "required": true
     },
-    "النقاط": {
+    "points": {
       "type": "integer",
       "required": true
     }
